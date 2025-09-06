@@ -1,0 +1,5 @@
+Skills:
+C++
+Python
+Git
+Github
